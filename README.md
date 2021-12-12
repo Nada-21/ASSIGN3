@@ -25,7 +25,7 @@ int * const p_int = &x;
 
 <return-value> <class>::<member-function>( <args> ) const
 {
-    \\.......
+    \\......
 }
 
 int Loan::calcInterest() const
